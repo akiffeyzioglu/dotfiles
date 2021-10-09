@@ -8,3 +8,4 @@ alias ssd1='sudo hddtemp /dev/sdb'
 alias puş='git push'
 alias gt='go mod tidy'
 alias b='systemctl suspend'
+alias k="kubectl"
