@@ -9,3 +9,5 @@ alias puş='git push'
 alias gt='go mod tidy'
 alias b='systemctl suspend'
 alias k="kubectl"
+alias kx="kubectx"
+alias kn="kubens"
